@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat app using sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cycheung5/Chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cycheung5/Chat/issues"
+  },
+  "homepage": "https://github.com/cycheung5/Chat#readme",
+  "dependencies": {
+    "mongodb": "^3.5.9",
+    "socket.io": "^2.3.0"
+  }
+}
