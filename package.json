@@ -18,6 +18,6 @@
   "homepage": "https://github.com/cycheung5/Chat#readme",
   "dependencies": {
     "mongodb": "^3.5.9",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
